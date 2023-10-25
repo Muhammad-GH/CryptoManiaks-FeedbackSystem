@@ -22,14 +22,14 @@ To install the WP Feedback plugin, follow these steps:
 
 3. Features
 
-3.1 Voting System
-The WP Feedback plugin implements a simple voting system with two actions - "Yes" and "No." Visitors can vote on articles by clicking these buttons. The plugin then calculates and displays the average percentage of votes.
-
-3.2 Preventing Duplicate Votes
-The plugin prevents visitors from voting twice on the same article. It uses cookies to track user votes and ensures fair voting results.
-
-3.3 Responsive Design
-WP Feedback is designed to work seamlessly on various devices and screen sizes, ensuring a user-friendly experience for all visitors.
+	3.1 Voting System
+	The WP Feedback plugin implements a simple voting system with two actions - "Yes" and "No." Visitors can vote on articles by clicking these buttons. The plugin then calculates and displays the average percentage of votes.
+	
+	3.2 Preventing Duplicate Votes
+	The plugin prevents visitors from voting twice on the same article. It uses cookies to track user votes and ensures fair voting results.
+	
+	3.3 Responsive Design
+	WP Feedback is designed to work seamlessly on various devices and screen sizes, ensuring a user-friendly experience for all visitors.
 
 
 4. Plugin Configuration
