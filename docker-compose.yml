@@ -49,7 +49,9 @@ services:
     volumes:
       - ./wp-data:/docker-entrypoint-initdb.d
       - ./db-data:/var/lib/mysql
-      - ./Feedback Voting System for posts/:/var/www/html/wp-content/plugins/Feedback Voting System for posts
+      - ./Feedback Voting System for posts/:/var/www/html/wp-content/plugins/Feedback-Voting-System-for-posts
+      #- ./plugin-name/trunk/:/var/www/html/wp-content/plugins/plugin-name # Plugin development
+
     environment:
       MYSQL_DATABASE: "${DB_NAME}"
       MYSQL_ROOT_PASSWORD: "${DB_ROOT_PASSWORD}"
